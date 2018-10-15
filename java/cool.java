@@ -5,3 +5,4 @@ public class  Abc {
     }
 }
 this is a new test java file
+this is fixbug 2.0 merge test
